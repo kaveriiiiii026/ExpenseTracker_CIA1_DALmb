@@ -40,7 +40,7 @@ The code makes sure that the programme handles potential errors gracefully and g
 
 ##Sample Output:
 1)	Normal inputs
- 
+  ![image](https://github.com/AkanshahChristLavasaaaaa/ExpenseTracker_CIA1_DALmb/assets/118894850/ce289cc8-311e-40a2-951c-93135d760093)
 
 
  
