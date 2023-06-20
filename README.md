@@ -10,7 +10,7 @@ Your ability to manage your finances and make wiser choices regarding your spend
 
 ## Description:
 
-I decided to work on a Python expense tracker project because I wanted to develop a practical tool that enables people to manage their money more skilfully. It can be difficult to keep track of expenses, and it's simple to lose track of where our money goes. I want to offer a solution that streamlines this procedure by creating an expense tracker application.
+We decided to work on a Python expense tracker project because we wanted to develop a practical tool that enables people to manage their money more skilfully. It can be difficult to keep track of expenses, and it's simple to lose track of where our money goes. We want to offer a solution that streamlines this procedure by creating an expense tracker application.
 
 Users of the application can enter their expenses, classify them, and establish budgets for various spending categories. Users can use this to better understand their spending habits and make wise financial decisions. Additionally, the app generates charts and reports that give users a visual representation of their expenses, making it simpler to spot areas where they can make savings or make concessions.
 
