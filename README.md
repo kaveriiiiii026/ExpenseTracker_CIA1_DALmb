@@ -1,6 +1,6 @@
-#Python Mini Project CIA-1
+# Python Mini Project CIA-1
 
-##Topic:
+## Topic:
 
 You can manage your finances with the help of a unique tool like the Python expense tracker project. It's like keeping a digital journal where you can record everything you spend money on. Additionally, you can categorise your spending by types of expenses, such as food, entertainment, and transportation.
 
@@ -8,7 +8,7 @@ You will find it simpler to understand where your money is going thanks to the p
 
 Your ability to manage your finances and make wiser choices regarding your spending will be made easier thanks to this project. It's like having a personal assistant who manages your finances and keeps track of your outgoings. With the help of this tool, you can become more conscious of your spending patterns and make changes to help you save money and achieve your financial objectives.
 
-##Description:
+## Description:
 
 I decided to work on a Python expense tracker project because I wanted to develop a practical tool that enables people to manage their money more skilfully. It can be difficult to keep track of expenses, and it's simple to lose track of where our money goes. I want to offer a solution that streamlines this procedure by creating an expense tracker application.
 
@@ -17,7 +17,7 @@ Users of the application can enter their expenses, classify them, and establish 
 The app can be useful for small businesses or freelancers who need to track their expenses for tax purposes or budget planning, in addition to helping people manage their finances.
 
 
-##Main Function (List of functions):
+## Main Function (List of functions):
 
 The try-except block is used to detect and handle potential errors that could happen while the code is being executed. We can handle any errors that arise and give the user the proper error messages by enclosing the main code logic within the try block.
 The user is prompted to enter the budget and the number of months to track expenses inside the try block of the code. Since the input must be converted into integers because these values are expected to be integers, the int() function is used. A ValueError will be raised if the user enters a non-integer value, and the except block will handle it.
@@ -38,7 +38,7 @@ The code makes sure that the programme handles potential errors gracefully and g
 
 
 
-##Sample Output:
+## Sample Output:
 1)	Normal inputs
   ![image](https://github.com/AkanshahChristLavasaaaaa/ExpenseTracker_CIA1_DALmb/assets/118894850/ce289cc8-311e-40a2-951c-93135d760093)
   ![image](https://github.com/AkanshahChristLavasaaaaa/ExpenseTracker_CIA1_DALmb/assets/118894850/cc4a96ab-339b-4f42-a362-03238fe6855d)
