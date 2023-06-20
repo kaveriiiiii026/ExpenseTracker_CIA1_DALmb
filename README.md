@@ -2,7 +2,7 @@
 
 ## Topic:
 
-You can manage your finances with the help of a unique tool like the Python expense tracker project. It's like keeping a digital journal where you can record everything you spend money on. Additionally, you can categorise your spending by types of expenses, such as food, entertainment, and transportation.
+You can manage your finances with the help of a unique tool like the Python expense tracker project. It's like keeping a digital journal where you can record everything you spend money on. Additionally, you can categorize your spending by types of expenses, such as food, entertainment, and transportation.
 
 You will find it simpler to understand where your money is going thanks to the project. It generates reports and graphs that display your spending in each category so you can better understand your spending patterns. It can also assist you in establishing spending thresholds in each category to prevent overspending.
 
@@ -10,7 +10,7 @@ Your ability to manage your finances and make wiser choices regarding your spend
 
 ## Description:
 
-I decided to work on a Python expense tracker project because I wanted to develop a practical tool that enables people to manage their money more skilfully. It can be difficult to keep track of expenses, and it's simple to lose track of where our money goes. I want to offer a solution that streamlines this procedure by creating an expense tracker application.
+We decided to work on a Python expense tracker project because  we wanted to develop a practical tool that enables people to manage their money more skilfully. It can be difficult to keep track of expenses, and it's simple to lose track of where our money goes. We want to offer a solution that streamlines this procedure by creating an expense tracker application.
 
 Users of the application can enter their expenses, classify them, and establish budgets for various spending categories. Users can use this to better understand their spending habits and make wise financial decisions. Additionally, the app generates charts and reports that give users a visual representation of their expenses, making it simpler to spot areas where they can make savings or make concessions.
 
