@@ -10,7 +10,7 @@ Your ability to manage your finances and make wiser choices regarding your spend
 
 ## Description:
 
-I decided to work on a Python expense tracker project because I wanted to develop a practical tool that enables people to manage their money more skilfully. It can be difficult to keep track of expenses, and it's simple to lose track of where our money goes. I want to offer a solution that streamlines this procedure by creating an expense tracker application.
+We decided to work on a Python expense tracker project because  we wanted to develop a practical tool that enables people to manage their money more skilfully. It can be difficult to keep track of expenses, and it's simple to lose track of where our money goes. We want to offer a solution that streamlines this procedure by creating an expense tracker application.
 
 Users of the application can enter their expenses, classify them, and establish budgets for various spending categories. Users can use this to better understand their spending habits and make wise financial decisions. Additionally, the app generates charts and reports that give users a visual representation of their expenses, making it simpler to spot areas where they can make savings or make concessions.
 
@@ -26,7 +26,7 @@ The amt_list list stores the entered amounts, and the total_amt variable accumul
 The total amount spent is displayed after entering all of the monthly expenses, and it is then compared to the allocated amount. A message indicating the need to control spending is displayed if the overall sum exceeds the budget. If not, a message stating that the budget is being kept is shown.
 The amt_list's expense totals are plotted using Matplotlib's plt.plot() function. The user is shown the resulting expense chart.
 The except block will catch any exception that arises within the try block. The error message will be displayed along with the specific type of error and any relevant information, indicating that an error has occurred.
-The code makes sure that the programme handles potential errors gracefully and gives the user informative error messages by incorporating the try-except block and the while loop.
+The code makes sure that the program handles potential errors gracefully and gives the user informative error messages by incorporating the try-except block and the while loop.
 
 
 
