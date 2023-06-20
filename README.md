@@ -48,6 +48,7 @@ The code makes sure that the programme handles potential errors gracefully and g
 
 
 3)	When negative values are entered:
+    ![image](https://github.com/AkanshahChristLavasaaaaa/ExpenseTracker_CIA1_DALmb/assets/118894850/2fa080fa-8787-4be7-b5f6-ce97e5701071)
 
 
  
